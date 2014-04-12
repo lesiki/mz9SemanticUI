@@ -1,9 +1,5 @@
-## Mezzanine theme "html5_boilerplate"
+## mz9SemanticUIBoilerplate
 
-### Features
+A [mezzanine](http://mezzanine.jupo.org/) theme using [Semantic-UI](http://semantic-ui.com/). The main template is empty except for a top menu bar.
 
-- HTML5 BOILERPLATE (http://html5boilerplate.com/)
-- Initializr (http://initializr.com/)
-- Bootstrap (http://twitter.github.com/bootstrap/)
-- Serves favicon as data:image/x-icon
-- Serves robots.txt as template
+This is a simple starting point for semantic-ui users.
